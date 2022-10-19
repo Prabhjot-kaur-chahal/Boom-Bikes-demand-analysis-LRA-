@@ -3,7 +3,6 @@
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Business Goal] (# goal)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 * [Code carring steps for linear regression analysis](#code)
@@ -35,4 +34,4 @@
 
 
 ## Contact
-Created by [@Prabhjotkaurchahal](https://github.com/Prabhjot-kaur-chahal) - feel free to contact me!
+Created by [@Prabhjot-kaur-chahal](https://github.com/Prabhjot-kaur-chahal) - feel free to contact me!

@@ -30,7 +30,7 @@
 - Apachae 2.0
 
 ## Code 
-- You can find my Code [here](/Bikes demand analysis_ Linear regression_Prabhjot.ipynb).
+- You can find my Code [here](/Bike sharing assignment_ Linear regression_Prabhjot.ipynb).
 
 
 ## Contact
